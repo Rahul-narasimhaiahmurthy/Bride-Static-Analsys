@@ -37,11 +37,12 @@ Compare predicted response with physical test measurements
 
 
 ## Results
-### CAD model
+### Static-load setup
 
-![Bridge CAD model](figure/Simply supported beam.PNG)
+![Load and support conditions](figures/Simply-supported-beam.png)
 
-*Three-dimensional CAD representation of the bridge test structure.*
+*Static simulation setup showing the applied load and support conditions.*
+
 
 ### Displacement
 
