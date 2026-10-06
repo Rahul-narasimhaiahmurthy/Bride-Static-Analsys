@@ -39,7 +39,7 @@ Compare predicted response with physical test measurements
 ## Results
 ### CAD model
 
-![Bridge CAD model](figures/bridge-cad-model.png)
+![Bridge CAD model](figures/Simply supported beam.png)
 
 *Three-dimensional CAD representation of the bridge test structure.*
 
