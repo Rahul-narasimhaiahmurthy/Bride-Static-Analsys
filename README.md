@@ -39,7 +39,7 @@ Compare predicted response with physical test measurements
 ## Results
 ### Static-load setup
 
-![Load and support conditions](figure/Simply-supported-beam.png)
+![Load and support conditions](figure/Simply-supported-beam.PNG)
 
 *Static simulation setup showing the applied load and support conditions.*
 
