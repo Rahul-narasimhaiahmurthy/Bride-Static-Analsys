@@ -56,4 +56,7 @@ Compare predicted response with physical test measurements
 
 *Stress distribution from the SolidWorks Simulation analysis.*
 
-The SolidWorks Simulation results were compared with physical-test measurements. The predicted elastic response showed approximately 97% agreement with the measured behaviour for the evaluated loading condition.
+## Conclusion
+The SolidWorks Simulation results were compared with physical-test measurements.
+
+The predicted elastic response showed approximately 97% agreement with the measured behaviour for the evaluated loading condition.
