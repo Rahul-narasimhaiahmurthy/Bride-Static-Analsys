@@ -39,19 +39,19 @@ Compare predicted response with physical test measurements
 ## Results
 ### CAD model
 
-![Bridge CAD model](figures/Simply supported beam.PNG)
+![Bridge CAD model](figure/Simply supported beam.PNG)
 
 *Three-dimensional CAD representation of the bridge test structure.*
 
 ### Displacement
 
-![Displacement result](figures/displacement-result.PNG)
+![Displacement result](figure/displacement-result.PNG)
 
 *Predicted displacement distribution under the applied static load.*
 
 ### Stress distribution
 
-![Stress result](figures/stress-result.PNG)
+![Stress result](figure/stress-result.PNG)
 
 *Stress distribution from the SolidWorks Simulation analysis.*
 
