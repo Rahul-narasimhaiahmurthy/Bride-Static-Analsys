@@ -1,4 +1,4 @@
-# Bride-Static-Analsys
+# Bridge-Static-Analysis
 # Static Analysis of PMMA Bridge Using SolidWorks
 
 Bridges must carry applied loads while maintaining adequate strength and stiffness. Understanding how these loads pass through the deck, beams, and supports is important for identifying highly stressed regions and limiting excessive deformation. Finite-element simulation provides a way to investigate thisstructural behaviour before constructing or testing a physical model. It predicts stress, strain, and displacement distributions and allows engineers to examine the effects of material properties, geometry, support conditions, and load placement.
